@@ -1,7 +1,7 @@
 {
   "name": "katakana-terminator",
   "type": "module",
-  "version": "2024.05.13",
+  "version": "2024.06.04",
   "private": true,
   "license": "MIT",
   "scripts": {
